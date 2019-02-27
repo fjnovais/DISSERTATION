@@ -14,7 +14,7 @@ date: "august 2017- january 2021"
 
 
 
-## <span style="color:#1F3D11; font-weight:bold">Genetic characterization related to meat tenderness in Nellore cattle using data omics integration</span>
+## Color={13F3D11}Genetic characterization related to meat tenderness in Nellore cattle using data omics integration
 
 -------
 
@@ -25,7 +25,7 @@ Used for **personal presentations and Lab feedback**.
 
 For more personal scripts access my **[Github](https://github.com/fjnovais)**.
 
-**Advisor**: Luiz Lehmann Coutinho ( <span style:"#1B8746"></span>ESALQ/USP-Brazil );
+**Advisor**: Luiz Lehmann Coutinho (ESALQ/USP-Brazil);
 
 > 
 #### The script has miscellaneous configurations and functions created or adapted for my project.
@@ -33,7 +33,7 @@ For more personal scripts access my **[Github](https://github.com/fjnovais)**.
 
 ***
 
-The Project has 2 main hypotesis:
+###The Project has 2 main hypotesis:
 
 **Hypothesis 1**: Multivariate methods generate biological relationship between the molecules and construct networks among them. (sRCCA and sPLS)
 
