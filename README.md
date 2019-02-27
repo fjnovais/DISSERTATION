@@ -25,7 +25,7 @@ Used for **personal presentations and Lab feedback**.
 
 For more personal scripts access my **[Github](https://github.com/fjnovais)**.
 
-**Advisor**: Luiz Lehmann Coutinho ( <span style:"#1B8746">ESALQ/USP-Brazil</span> );
+**Advisor**: Luiz Lehmann Coutinho ( <span style:"#1B8746"></span>ESALQ/USP-Brazil );
 
 > 
 #### The script has miscellaneous configurations and functions created or adapted for my project.
