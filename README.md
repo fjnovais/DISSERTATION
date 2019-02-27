@@ -3,8 +3,6 @@ title: Genetic characterization related to meat tenderness in Nellore cattle usi
   data omics integration
 author: "Francisco Jose de Novais"
 date: "august 2017- january 2021"
-output:
-  html_document: default
 ---
 
 ------
@@ -16,16 +14,12 @@ output:
 
 
 
-***
-
-## <span style="color:#1F3D11; font-weight:bold">DATA STRUTURE-PROTEIN</span> {align=center}
-
-***
+## <span style="color:#1F3D11; font-weight:bold">Genetic characterization related to meat tenderness in Nellore cattle using
+  data omics integration</span>{align=center}
 
 -------
 
 -------
-
 
 This is an R Markdown document of **Francisco's research**.
 Used for **personal presentations and Lab feedback**.
@@ -40,9 +34,7 @@ For more personal scripts access my **[Github](https://github.com/fjnovais)**.
 
 ***
 
-#{align=justify}
-
-The Project has 2 main hypotesis:
+{align=justify} The Project has 2 main hypotesis:
 
 **Hypothesis 1**: Multivariate methods generate biological relationship between the molecules and construct networks among them. (sRCCA and sPLS)
 
