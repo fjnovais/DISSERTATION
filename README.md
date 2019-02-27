@@ -14,7 +14,7 @@ date: "august 2017- january 2021"
 
 
 
-\setmonofont[Color={13F3D11}]Genetic characterization related to meat tenderness in Nellore cattle using data omics integration
+##Genetic characterization related to meat tenderness in Nellore cattle using data omics integration
 
 -------
 
