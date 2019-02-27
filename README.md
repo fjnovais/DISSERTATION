@@ -14,7 +14,7 @@ date: "august 2017- january 2021"
 
 
 
-##Genetic characterization related to meat tenderness in Nellore cattle using data omics integration
+##[Color={0019D4}] Genetic characterization related to meat tenderness in Nellore cattle using data omics integration
 
 -------
 
@@ -33,7 +33,7 @@ For more personal scripts access my **[Github](https://github.com/fjnovais)**.
 
 ***
 
-###The Project has 2 main hypotesis:
+### The Project has 2 main hypotesis:
 
 **Hypothesis 1**: Multivariate methods generate biological relationship between the molecules and construct networks among them. (sRCCA and sPLS)
 
